@@ -1,5 +1,5 @@
 # octo
 
-##editing file
+## editing file
 
 its a markdown file in repository
